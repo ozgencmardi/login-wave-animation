@@ -12,7 +12,7 @@ N/A
 
 You can see the image of the project below.
 <br><br>
-![alt text](images/screenshot.png)
+![alt text](img/screenshot.png)
 
 ## Links
 
